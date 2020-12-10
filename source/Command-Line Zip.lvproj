@@ -16,9 +16,10 @@
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Support" Type="Folder">
 				<Item Name="Compare Two Folders.vi" Type="VI" URL="../../tests/support/Compare Two Folders.vi"/>
-				<Item Name="Test Unzip Read-Only File.vi" Type="VI" URL="../../tests/Test Unzip Read-Only File.vi"/>
 			</Item>
 			<Item Name="Test Zip and Unzip.vi" Type="VI" URL="../../tests/Test Zip and Unzip.vi"/>
+			<Item Name="Test Unzip File with Brackets in Name.vi" Type="VI" URL="../../tests/Test Unzip File with Brackets in Name.vi"/>
+			<Item Name="Test Unzip Read-Only File.vi" Type="VI" URL="../../tests/Test Unzip Read-Only File.vi"/>
 		</Item>
 		<Item Name="Command-Line Zip.lvlib" Type="Library" URL="../Command-Line Zip.lvlib"/>
 		<Item Name="- VI Tree - Command-Line Zip.vi" Type="VI" URL="../- VI Tree - Command-Line Zip.vi"/>
