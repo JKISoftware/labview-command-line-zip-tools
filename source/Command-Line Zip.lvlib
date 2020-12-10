@@ -8,4 +8,5 @@
 	<Item Name="Compress Single File.vi" Type="VI" URL="../Compress Single File.vi"/>
 	<Item Name="Extract All Files to Directory.vi" Type="VI" URL="../Extract All Files to Directory.vi"/>
 	<Item Name="Extract Single File.vi" Type="VI" URL="../Extract Single File.vi"/>
+	<Item Name="List Zip File Contents.vi" Type="VI" URL="../List Zip File Contents.vi"/>
 </Library>
