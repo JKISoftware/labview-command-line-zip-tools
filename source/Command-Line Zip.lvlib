@@ -9,4 +9,5 @@
 	<Item Name="Extract All Files to Directory.vi" Type="VI" URL="../Extract All Files to Directory.vi"/>
 	<Item Name="Extract Single File.vi" Type="VI" URL="../Extract Single File.vi"/>
 	<Item Name="List Zip File Contents.vi" Type="VI" URL="../List Zip File Contents.vi"/>
+	<Item Name="Treat Path for Platform.vi" Type="VI" URL="../Treat Path for Platform.vi"/>
 </Library>
